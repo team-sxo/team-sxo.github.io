@@ -1,3 +1,10 @@
+[Study]
+- 같은 프로젝트를 수행하면 같은 브랜치를 공유해야 되나? 관계 없나?
+- 브랜치를 달리한다면 작업이 완료 된 브랜치와의 병합은?
+- upstream을 pull 하고나면 origin의 cloudㅇㅔ도 반영될줄 알았는데 아니네?
+
+
+
  https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/?gclid=Cj0KCQiA0fr_BRDaARIsAABw4EuvEi-bu7OlR7gIqxHwmLsV1OwdQtZ-ynT3AgXNMZnfm3qTym3hEQQaAl1NEALw_wcB
 
 
