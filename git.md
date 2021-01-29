@@ -1,3 +1,14 @@
+[Test]
+- 
+-
+
+[Process]
+- branch에서 작업하고
+- origin에 푸시
+- main을? branch를?
+- 작업이 끝나면 upstream에 푸시
+- 필요하면 pull request
+
 [Study]
 - 같은 프로젝트를 수행하면 같은 브랜치를 공유해야 되나? 관계 없나?
 - 브랜치를 달리한다면 작업이 완료 된 브랜치와의 병합은?
