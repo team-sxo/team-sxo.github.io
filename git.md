@@ -16,6 +16,7 @@ test
 - push한 내용을 pull request
 - main에 merge됨과 동시에 deploy
 - GitHub Deployments & Action
+- 중간에 버전 등의 태그도 달아야 하는데?
 
 ToDo
 [GitHub Flow]
