@@ -1,3 +1,6 @@
+test
+
+
 [Study]
 - 같은 프로젝트를 수행하면 같은 브랜치를 공유해야 되나? 관계 없나?
 - 브랜치를 달리한다면 작업이 완료 된 브랜치와의 병합은?
@@ -13,6 +16,7 @@
 - push한 내용을 pull request
 - main에 merge됨과 동시에 deploy
 - GitHub Deployments & Action
+- 중간에 버전 등의 태그도 달아야 하는데?
 
 ToDo
 [GitHub Flow]
